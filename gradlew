@@ -62,7 +62,12 @@
 #
 ##############################################################################
 
-# Attempt to set APP_HOME
+
+
+# main
+add_Attempt
+add_eps
+add_aoto tp
 
 # Resolve links: $0 may be a link
 app_path=$0
