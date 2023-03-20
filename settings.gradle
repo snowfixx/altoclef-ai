@@ -6,6 +6,8 @@ pluginManagement {
         }
         gradlePluginPortal()
     }
-    log = wing pack
+    main
+     log = "#Webhooks#"
+    discord = "#Webhooks#" #test#
   }
 },
